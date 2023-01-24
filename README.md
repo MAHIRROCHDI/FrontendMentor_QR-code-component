@@ -15,12 +15,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-!C:\qr-code-component-main\images](./screenshot.png)
+![](images/screenshot.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [](https://mahirrochdi.github.io/FrontendMentor_QR-code-component/)
 
 ## My process
 
@@ -31,6 +31,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Mahir Rochdi]
+- Frontend Mentor - [@MAHIRROCHDI](https://www.frontendmentor.io/profile/MAHIRROCHDI)
+- Linkedin - [@rochdi-mahir](www.linkedin.com/in/rochdi-mahir)
